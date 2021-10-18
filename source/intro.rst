@@ -1,7 +1,7 @@
 Intro
 =====
 This wrapper has both asynchronous & synchronous support, this intro will cover the basic of both.
-Lucily for you the API for asynchronous (awaiting) & synchronous (blocking) is identical.
+Luckily for you the API for asynchronous (awaiting) & synchronous (blocking) is identical.
 
 Application keys can be made `here <https://secure.backblaze.com/app_keys.htm>`_.
 
